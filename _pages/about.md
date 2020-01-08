@@ -1,69 +1,72 @@
 ---
 layout: page
-title: O Degustującej Istocie
+title: About the Degustujaca Istota
 permalink: /about/
 ---
-Degusutjąca Istota chodzi sobie razem z innymi Degustującymi Istotami po restauracjach.
-Jada w nich, zdjęcia robi a potem opisuje, co degustowała. Stara się oceną nikogo nie krzywdzić.
- Ma świadomość, że obsługa w restautacji często wkłada wiele pracy i serca w to co robi.
- Istota bardzo tą pracę docenia a zarazem chce być pomocna dla
-tych, którzy szukają poleceń dobrych restauracji.
-Nie spodziewajcie się pięknych, okrągłych zdań i poprawnej gramatyki. To nie jest Istoty mocna strona.
-Zawodowo też testuje. Jest inżynierem do spraw zapewniania jakości w branży IT.
-Mieszka na Śląsku. Sympatyzuje z kuchnią roślinną, ale nie jest weganką.
-Medytuje i stara się ogarniać życie jak umie najlepiej.
+The Degustujaca Istota/ Degustating Being walks around with other Beings to the restaurants.
+Eats, takes pictures and then describes what it tasted.
+Tries not to hurt anyone with its judgment.
+Is aware that the restaurant team in often puts a lot of work and heart into what they do.
+The Degustujaca Istota appreciates this work very much
+and at the same time wants to be helpful for those who are looking for good restaurant recommendations.
+Do not expect beautiful sentences and correct grammar. This is not it strong site in any language.
+ As a profession I am Quality Assurance Engineer in the IT . I live in Silesia region in Poland.
+ I am enthusiast of vegetable cuisine, but I am not vegetarian. My passion is especially Fine Dining.
 
-Nie pisze treści sponsorowanych, zawsze sama (albo z bliskimi Istotami) wybiera co i gdzie testuje i sama za to płaci.
-Natomiast informacje chętnie zbiera: o nowym menu, o ciekawym wydarzeniu kulinarnym, interesujacych
-produktach itp.
+I do not write sponsored content. I (or my close ones) chooses what and where to eat and to test and we pay for ourselves.
 
-Po co pisze ten blog? Bo ma słabą pamięć :D a kocha pyszne jedzenie i chce móc sobie powspominać, co i gdzie jadła
-i jakie to było pyszne, albo i nie ;) Przy okazji upubliczniając swoje zdanie o restauracji/potrawie chciałaby się przydać tym,
-co szukają poleceń dobrych restauracji.
-Jak ocenia?
+Why am I writing this blog? Because I have a poor memory,
+and I love delicious food and want to be able to remember what and
+where I ate and how delicious it was or not ;) By the publicizing my opinion about the restaurant / dish,
+I would like to be useful to those who are looking for restaurant recommendations.
+This is also how I want to appreciate talented Chefs.
 
-### Ocenie podlegają:
-1. Smak potraw
-2. Prezentacja potraw
-3. Atmosfera
-4. Wystrój / Czystość
-5. Obsługa
-6. Stosunek jakości do ceny
-7. Podejście do komplikacji żywieniowych
+What do I assess?
 
-Maksymalnie restauracja/bistro/bar może otrzymać 250 pkt.
+### Rating criteria:
+1. The Taste and technique
+2. Presentation of dishes
+3. Atmospher
+4. Service
+5. Interior decoration/Cleanliness
+6. Best Value for money
+7. Creativity/Vision
+
+Maximum the restaurant / bistro / bar can receive 250 points.
 
 <a name="baklazan"></a>
-### Dodatkowo (od niedawna) oceniane są potrawy.
-Danie może dostać od 0 do 5 bakłażanów.
-* 0 bakłażanów - nie jadalne
-* 1 bakłażan - da się zjeść
-* 2 baklążany - dobre
-* 3 bakłażany - pyszne
-* 4 bakłażany - wspaniałe
-* 5 bakłażanów - fenomenalne, zaskakujące, genialne!
+### Courses have their own rating expressed by my favourite Eggplants!
+A dish can receive from 0 to 5 eggplants.
+* 0 eggplants - not edible
+* 1 eggplant - can be eaten
+* 2 eggplants - good
+* 3 eggplants - delicious
+* 4 eggplants - wonderful
+* 5 eggplants - phenomenal, surprising, brilliant!
 
-### Odznaczenie specjalne
-Odznaka wesołego bakłażana - najwyższe wyróżnienie. Nadawane, gdy restauracja skradnie serce
-Degustującej Istocie. Może być odebrane za złamanie serca.
+
+### Special award
+The Happy Eggplant badge - the highest distinction.
+Awarded to the Degustujaca Istota’s favourite dishes or for the resturant that the Degustujaca Istota loves.
 
 
 <center><div style="width:40%"><img src="{{site.url}}/assets/img/posts/odznaka_new.gif" alt="DegustującaIstota" height="602" width="auto" />
 </div></center>
 
-### Tagi
-Pod każdym artykułem znajduje się lista tagów, dzięki którym Istota pogrupowała wpisy.
-Tagi: Michelin_guide oraz Gault_Millau są umieszczone przy restauracjach, które zostały wspomniane w tych
-przewodnikach.
+### Tags
+Under each article, there is a list of tags by which the Degustujaca Istota has grouped posts.
+ Tags: Michelin_guide and Gault_Millau are placed next to the restaurants that were mentioned in these guides.
 
-### Techniczne informacje
-Zdjęcie na stronie głównej Degustująca Istota zrobiła w restauracji Umami w Pyskowicach.
-Logo Degustującej Istoty wykonała @dranka.
-Degustująca Istota zrobiła blog na podstawie motywu [Sleek], który używa statycznego generatora stron [Jekyll].
-Jak masz ochotę, to możesz napisać mail do [Degustującej Istoty](mailto:{{site.email}}).
-Dla tych, co nie używają klienta poczty: degustujaca.istota@gmail.com.
-Jednak Istota poleca kontaktować się przez jej fanpage na facebooku - najszybciej odpisze.
+### Technical information
+The photo on the main page was taken at the Umami restaurant in Pyskowice in Poland.
+The Degustujaca Istota logo was made by @dranka. The Degustujaca Istota’s blog is based on the [Sleek] theme,
+which uses the static [Jekyll] page generator.
+The blog exists and develops thanks to the help of an amazing programmer, author of the blog [WriteOnly].
+
+If you like , you can write an e-mail to the  [Degustującej Istoty](mailto:{{site.email}}).
+For those who do not use the e-mail client: degustujaca.istota@gmail.com.
+ However, I recommend contacting by facebook or Instagram page - I will reply as soon as possible.
 
 [Sleek]:https://janczizikow.github.io/sleek
 [Jekyll]: https://jekyllrb.com
-
+[WriteOnly]: https://www.writeonly.pl
