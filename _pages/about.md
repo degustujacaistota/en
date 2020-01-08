@@ -10,14 +10,13 @@ Is aware that the restaurant team in often puts a lot of work and heart into wha
 The Degustujaca Istota appreciates this work very much
 and at the same time wants to be helpful for those who are looking for good restaurant recommendations.
 Do not expect beautiful sentences and correct grammar. This is not it strong site in any language.
- As a profession I am Quality Assurance Engineer in the IT . I live in Silesia region in Poland.
+ As a profession I am Quality Assurance Engineer in the IT. I live in Silesia region in Poland.
  I am enthusiast of vegetable cuisine, but I am not vegetarian. My passion is especially Fine Dining.
 
 I do not write sponsored content. I (or my close ones) chooses what and where to eat and to test and we pay for ourselves.
 
-Why am I writing this blog? Because I have a poor memory,
-and I love delicious food and want to be able to remember what and
-where I ate and how delicious it was or not ;) By the publicizing my opinion about the restaurant / dish,
+Why am I writing this blog? Because I have a poor memory, I love delicious food and want to be able to remember what and
+where I ate, how delicious it was or not ;) By the publicizing my opinion about the restaurant / dish,
 I would like to be useful to those who are looking for restaurant recommendations.
 This is also how I want to appreciate talented Chefs.
 

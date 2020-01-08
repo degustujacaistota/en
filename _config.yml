@@ -80,7 +80,7 @@ paginate_path:    '/:num'
 remote_theme: degustujacaistota/degustujacaistota
 
 # jekyll-seo-tag
-title: Degustująca Istota
+title: Degustujaca Istota
 tagline: >
   “Money, pardon the expression, is like manure. It's not worth a thing unless it's spread around, encouraging young things to grow.”
 description: >
@@ -97,7 +97,7 @@ social:
     - https://twitter.com/degustujaca
     - https://www.linkedin.com/in/danuta-żabińska-94a74410b
     - https://github.com/degustujacaistota
-    - https://plus.google.com/+BenBalter
+#    - https://plus.google.com/+BenBalter
 #    - https://keybase.io/benbalter
 
 # THEME SETTINGS
