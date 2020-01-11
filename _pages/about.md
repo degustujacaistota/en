@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About the Degustujaca Istota
+title: About the Degustująca Istota
 permalink: /about/
 ---
-The Degustujaca Istota(Degustating Being) walks around with other Beings to the restaurants.
+The Degustująca Istota(Degustating Being) walks around with other Beings to the restaurants.
 Eats, takes pictures and then describes what she tasted.
 Tries not to hurt anyone with her judgment.
 Is aware that the restaurant team in often puts a lot of work and heart into what they do.
-The Degustujaca Istota appreciates this work very much
+The Degustująca Istota appreciates this work very much
 and at the same time wants to be helpful for those who are looking for good restaurant recommendations.
 Do not expect beautiful sentences and correct grammar. This is not her strong site in any language.
  As a profession I am Quality Assurance Engineer in the IT. I live in Silesia region in Poland.
@@ -46,19 +46,19 @@ A dish can receive from 0 to 5 eggplants.
 
 ### Special award
 The Happy Eggplant badge - the highest distinction.
-Awarded to the Degustujaca Istota’s favourite dishes or for the resturant that the Degustujaca Istota loves.
+Awarded to the Degustująca Istota’s favourite dishes or for the resturant that the Degustująca Istota loves.
 
 
 <center><div style="width:40%"><img src="{{site.url}}/assets/img/posts/odznaka_new.gif" alt="DegustującaIstota" height="602" width="auto" />
 </div></center>
 
 ### Tags
-Under each article, there is a list of tags by which the Degustujaca Istota has grouped posts.
+Under each article, there is a list of tags by which the Degustująca Istota has grouped posts.
  Tags: Michelin_guide and Gault_Millau are placed next to the restaurants that were mentioned in these guides.
 
 ### Technical information
 The photo on the main page was taken at the Umami restaurant in Pyskowice in Poland.
-The Degustujaca Istota logo was made by @dranka. The Degustujaca Istota’s blog is based on the [Sleek] theme,
+The Degustująca Istota logo was made by @dranka. The Degustująca Istota’s blog is based on the [Sleek] theme,
 which uses the static [Jekyll] page generator.
 The blog exists and develops thanks to the help of an amazing programmer, author of the blog [WriteOnly].
 
