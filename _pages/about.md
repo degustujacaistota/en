@@ -49,7 +49,7 @@ The Happy Eggplant badge - the highest distinction.
 Awarded to the Degustująca Istota’s favourite dishes or for the resturant that the Degustująca Istota loves.
 
 
-<center><div style="width:40%"><img src="{{site.url}}/assets/img/posts/odznaka_new.gif" alt="DegustującaIstota" height="602" width="auto" />
+<center><div style="width:40%"><img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="DegustującaIstota" height="602" width="auto" />
 </div></center>
 
 ### Tags
