@@ -86,7 +86,7 @@ paginate_path:    '/:num'
 remote_theme: degustujacaistota/sleek
 
 # jekyll-seo-tag
-title: Degustujaca Istota
+title: Degustująca Istota
 tagline: >
   “Money, pardon the expression, is like manure. It's not worth a thing unless it's spread around, encouraging young things to grow.”
   - "Hello, Dolly!"
