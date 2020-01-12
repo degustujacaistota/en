@@ -126,6 +126,8 @@ navigation:
   - {name: 'Tags', link: '/tags'}
   - {name: 'Locations', link: '/locations'}
   - {name: 'Restaurants', link: '/restaurants'}
+  - {name: 'Ranking', link: '/ranking'}
+  - {name: 'PL', link: '/../'}
 
 # SOCIAL LINKS
 social_links:
