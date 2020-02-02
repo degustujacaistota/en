@@ -2,6 +2,7 @@
 layout: page
 title: About the Degustująca Istota
 permalink: /about/
+translated: true
 ---
 The Degustująca Istota(Degustating Being) walks around with other Beings to the restaurants.
 Eats, takes pictures and then describes what she tasted.
