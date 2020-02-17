@@ -134,4 +134,4 @@ Poland
 _Title picture: Caramel apple_
 
 [Fiorentina]: https://fiorentina.com.pl/
-[eggplants]: en/about#baklazan
+[eggplants]: /en/about#baklazan
