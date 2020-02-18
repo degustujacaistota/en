@@ -38,7 +38,7 @@ height="200px" width="40px" />
 #### *Foie gras/vanilla/figs/Chałka/hazelnut*
 
 Creamy foie gras with vanilla, fig preserve and caramelized hazelnuts.
-Served with slices of Chałka fried in orange syrup.
+Served with slices of Chałka(sweet bread) fried in orange syrup.
 A perfect combination. We will remember this foie gras for a long time. _5&nbsp;[eggplants]._
 <center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/fior_foie_gras.jpg" alt="Two foie gras balls
@@ -51,7 +51,7 @@ height="200px" width="40px" />
 #### *Crayfish cream*
 
 A bit sweet crayfish cream flavoured with parsley oil.
- Inside there are dumplings with crayfish meat and pickled celery.
+ Inside there were dumplings with crayfish meat and pickled celery.
 _3&nbsp;[eggplants]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/fior_soup.jpg" alt="
@@ -86,8 +86,8 @@ Polish duck with parsnip puree, Jacqueline sauce and hazelnuts. _3&nbsp;[eggplan
 #### *Caramel apple*
 
 Due to allergies, we asked to change the dessert, which was originally a cheesecake. 
-It turned out that thanks to this we got one of the most beautiful desserts we were able to see.
- A beautiful, red apple with a diced apple and peach-hibiscus sorbet. Taste and presentation at the highest level. Wonderful.
+It turned out that thanks to this we got one of the most beautiful desserts we have ever seen.
+ A beautiful, red apple with a diced apple inside and peach-hibiscus sorbet. Taste and presentation at the highest level. Wonderful.
 _5&nbsp;[eggplants]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/fior_apple.jpg" alt="Imitation of red apple on a nut crumble,
@@ -111,11 +111,11 @@ height="200px" width="40px" />
 
 What deserves special mention in the served dishes is the attention to detail. 
 Beautifully designed and refined in every inch the courses were interesting and beautiful.
- Foie gras was definitely one of the best ones that we have eaten and have eaten quite a lot. 
+ Foie gras was definitely one of the best ones that we have eaten and have eaten a lot of them. 
  The dessert also gave us a lot of joy and satisfaction.
 The only downside this evening was the service. The ladies were polite, but very busy,
  which made serving dishes and talking about them rushed and it was difficult to hear.
-For a beautiful Valentine's evening and wonderful dishes, the Degustująca Istota awards the Happy Eggplant Badge.
+For a beautiful Valentine's evening and wonderful dishes, the Degustująca Istota awards the Fiorentina by the Happy Eggplant Badge.
 
 <center><div style="width:35%">
 <img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Happy Eggplant Badge" height="100" width="auto" />
