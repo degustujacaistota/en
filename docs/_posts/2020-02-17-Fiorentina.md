@@ -2,7 +2,7 @@
 layout: post
 title: Fiorentina - Valentines
 featured-img: fior_main
-tags: Restaurant Fine_dining Gault_Millau Tasting_manu Wine_and_Food_Noble_Night Valentines Happy_eggplant_badge
+tags: Restaurant Fine_dining Gault_Millau Tasting_menu Wine_and_Food_Noble_Night Valentines Happy_eggplant_badge
 restaurant: Fiorentina
 location: Cracow Poland
 points: 241
