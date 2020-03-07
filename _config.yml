@@ -85,12 +85,13 @@ paginate_path:    '/:num'
 remote_theme: degustujacaistota/sleek
 
 # jekyll-seo-tag
-title: Degustująca Istota
+title: Fine Dining and other culinary wonders
 tagline: >
-  “Money, pardon the expression, is like manure. It's not worth a thing unless it's spread around, encouraging young things to grow.”
-  - "Hello, Dolly!"
+  Fine Dining in restaurants recommended by Michelin Guide, but not only. Human does not live by stars only ...
 description: >
-  Tester's blog about restaurants. Food tasting reviews. Ranking of the best restaurants.
+  Fine Dining Restaurants by the Degustująca Istota.
+      Tasting dinners, à la Carte dishes also in restaurants with the Michelin Guide recommendation, but not only.
+      There is also place for several culinary pearls outside the world of Fine Dining.
 url: "https://degustujacaistota.github.io/"
 author: Danuta Irena Żabińska
 logo: /assets/img/logo.jpg
