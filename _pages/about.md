@@ -5,27 +5,49 @@ permalink: /about/
 translated: true
 ---
 The Degustująca Istota (Degustating Being) walks around with other Beings to the restaurants.
-Eats, takes pictures and then describes what she tasted.
-Tries not to hurt anyone with her judgment.
-Is aware that the restaurant team in often puts a lot of work and heart into what they do.
-The Degustująca Istota appreciates this work very much
-and at the same time wants to be helpful for those who are looking for good restaurant recommendations.
-Do not expect beautiful sentences and correct grammar. This is not her strong site in any language.
+Eats, takes pictures and describes what she tasted.
+
  As a profession I am Quality Assurance Engineer in the IT. I live in Silesia region in Poland.
- I am enthusiast of vegetable cuisine, but I am not vegetarian. I especially love the Fine dining.
+ I am enthusiast of vegetable cuisine, but I am not vegetarian. I especially admire the Fine Dining and a molecular cuisine.
 
-I do not write sponsored content. I(or my close ones) chooses what and where to eat and to test and we pay for ourselves.
+### Why Eggplant?
 
-Why am I writing this blog? Because I have a poor memory, I love delicious food and want to be able to remember what and
-where I ate, how delicious it was or not ;) By the publicizing my opinion about the restaurant/dish,
-I would like to be useful to those who are looking for restaurant recommendations.
-This is also how I want to appreciate talented Chefs.
+On the one hand, because I consider it as one of the less appreciated vegetables although it has amazing potential.
+In many restaurants I met with a complete misunderstanding of its taste and bad preparation. 
+So it became a symbol of my blog, as a vegetable well showing the chef's abilities.
+
+On the other hand, I think the tasting eggplant is funny.And I wanted to add a bit of humor so that the blog in which
+I write mostly about luxurious and elegant dinners in the Fine Dining style was not too pretentious and stiff.
+After all, even eating in a restaurant with 
+Michelin Guide stars we want to eat deliciously and have fun, instead of sitting tense, like on an exam.
+
+### Why am I writing this blog? 
+
+1. For myself: <br/>
+Because I have a poor memory. I love delicious food and want to be able to remember
+ what and where I ate, how delicious it was or not;) and which Chef prepared these dishes.
+ 
+2. For people who are looking for good cuisine: <br/>
+By the publicizing my opinion about the restaurant/dish,
+I would like to be useful to those who are looking for restaurant recommendations, 
+or inspiration for their own culinary creations.
+
+3. For chefs and restaurants:  <br/>
+Sometimes both restaurants and chefs, especially in fine dining restaurants, but not only, ask for feedback.
+I try to make my comments as  substantial as I can and  not emotional. Unfortunately, it comes out differently.
+ And if anyone is offended by my words, I'm sorry in advance. 
+This was not my intention. I realize how much effort and commitment work in a restaurant requires.
+
+4. Because it's my hobby:
+I don't write sponsored content. 
+I do not earn by my blog, it is only my hobby for which I devote a large part of my home budget ;)
+
 
 What do I assess?
 
 ### Rating criteria:
 1. The Taste and technique
-2. Presentation of dishes
+2. Presentation of courses
 3. Atmospher
 4. Service
 5. Interior decoration/Cleanliness
