@@ -38,7 +38,7 @@ I try to make my comments as  substantial as I can and  not emotional. Unfortuna
  And if anyone is offended by my words, I'm sorry in advance. 
 This was not my intention. I realize how much effort and commitment work in a restaurant requires.
 
-4. Because it's my hobby:
+4. Because it's my hobby: <br/>
 I don't write sponsored content. 
 I do not earn by my blog, it is only my hobby for which I devote a large part of my home budget ;)
 
