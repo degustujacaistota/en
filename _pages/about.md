@@ -4,7 +4,7 @@ title: About the Degustująca Istota
 permalink: /about/
 translated: true
 ---
-The Degustująca Istota(Degustating Being) walks around with other Beings to the restaurants.
+The Degustująca Istota (Degustating Being) walks around with other Beings to the restaurants.
 Eats, takes pictures and then describes what she tasted.
 Tries not to hurt anyone with her judgment.
 Is aware that the restaurant team in often puts a lot of work and heart into what they do.
@@ -58,7 +58,7 @@ Under each article, there is a list of tags by which the Degustująca Istota has
  Tags: Michelin_guide and Gault_Millau are placed next to the restaurants that were mentioned in these guides.
 
 ### Technical information
-The photo on the main page was taken at the Umami restaurant in Pyskowice in Poland.
+The photo on the main page was taken at the Babel restaurant in Budapest.
 The Degustująca Istota logo was made by @dranka. The Degustująca Istota’s blog is based on the [Sleek] theme,
 which uses the static [Jekyll] page generator.
 The blog exists and develops thanks to the help of an amazing programmer, author of the blog [WriteOnly].
