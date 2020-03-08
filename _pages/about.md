@@ -7,16 +7,16 @@ translated: true
 The Degustująca Istota (Degustating Being) walks around with other Beings to the restaurants.
 Eats, takes pictures and describes what she tasted.
 
- As a profession I am Quality Assurance Engineer in the IT. I live in Silesia region in Poland.
+ By profession I am Quality Assurance Engineer in the IT area. I live in Silesia region in Poland.
  I am enthusiast of vegetable cuisine, but I am not vegetarian. I especially admire the Fine Dining and a molecular cuisine.
 
 ### Why Eggplant?
 
-On the one hand, because I consider it as one of the less appreciated vegetables although it has amazing potential.
+On the one hand, because I consider this one of the less appreciated vegetables although it has amazing potential.
 In many restaurants I met with a complete misunderstanding of its taste and bad preparation. 
-So it became a symbol of my blog, as a vegetable well showing the chef's abilities.
+That is why it became a symbol of my blog, as a vegetable well showing the chef's abilities.
 
-On the other hand, I think the tasting eggplant is funny.And I wanted to add a bit of humor so that the blog in which
+On the other hand, I think the tasting eggplant is funny. And I wanted to add a bit of humor so that the blog in which
 I write mostly about luxurious and elegant dinners in the Fine Dining style was not too pretentious and stiff.
 After all, even eating in a restaurant with 
 Michelin Guide stars we want to eat deliciously and have fun, instead of sitting tense, like on an exam.

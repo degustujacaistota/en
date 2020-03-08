@@ -20,7 +20,7 @@ she didn't find time to describe this magical evening.
 
 #### *Own-baked bread/buckwheat crisp/chives butter/caramel butter*
 
-From the beginning when the bread was served, we were transferred to forest atmosphere.
+From the beginning when the bread was served, we were transferred to the forest atmosphere.
  The bread was given in a circle of bark decorated with whole nuts and acorns.
   It pleased the eye and the palate. _3&nbsp;[eggplants]._
 <center><div style="width:50%">
@@ -31,7 +31,7 @@ height="200px" width="40px" />
 <br />&ensp;&ensp;
 
 Butter served in the form of charming balls,
- together with a buckwheat crisps. One would like more of these butters, because they were very good.
+ together with a buckwheat crisps. We would like more of these butters, because they were very good.
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/bk_butter.jpg" alt="
 The wooden pad has small bowls with ball-shaped butter (yellow and green)
@@ -53,7 +53,7 @@ height="200px" width="40px" />
 #### *Duck tongue/pork rind/cranberry*
 
 A bit controversial Amuse-bouche in the form of shashlik.
- It is worth to give in a try. It was crunchy and had a nicely composed flavor. _4&nbsp;[eggplants]._
+ It is worth to give it a try. It was crunchy and had a nicely composed flavor. _4&nbsp;[eggplants]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/bk_am2.jpg" alt="
 Small shashlik served on a slate. Two small pieces in tempura with pink gel dots, handled on a red stick."
@@ -84,7 +84,7 @@ black and yellow ball, separated by pink ice cream and surrounded by smaller bee
 #### *Cabbage soup cooked on smoked ribs with gherkin and macerated sturgeon*
 
 Excellent essential soup with delicate sturgeon.
- Beautifully served and very good. The delicious, fall off the bone ribs were brought as the attachment to the soup. 
+ Beautifully served and very tasty. The delicious, fall off the bone ribs were brought as the attachment to the soup. 
  The whole course nicely complemented itself.
 The Degustująca Istota gives this Cabbage soup the Happy Eggplant Badge.
 _5&nbsp;[eggplants]._
@@ -111,7 +111,7 @@ height="200px" width="40px" />
 
 #### *Wild boar cheek in horseradish sauce with red cabbage and marinated Sechna prunes*
 
-The main course was wonderful. Soft, crumbling meat and crunchy red cabbage blend in perfectly with
+The main course was wonderful. Soft, crumbling meat and crunchy red cabbage blended in perfectly with
 Sechna prunes.
 _5&nbsp;[eggplants]._
 <center><div style="width:65%">
