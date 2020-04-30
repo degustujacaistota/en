@@ -17,7 +17,7 @@ The Villa Gardena restaurant was also appreciated by the guide
 
 Chef Dominik Duraj has proved his talent to us many times and prepared dishes that we will remember for a long time. 
 For an example, a brilliant potato cream with fresh truffle, which was 
-our first dish in @restauracja_villa_garden and from whom we absolutely fell in love in this place.
+our first dish at the Villa Gardena restaurant and from whom we absolutely fell in love in this place.
   There was also a guinea fowl served at Fine Dining Week. The best prepared guinea fowl,
    from those we had pleasure to eat.
 
