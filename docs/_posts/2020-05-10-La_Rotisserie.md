@@ -95,7 +95,7 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-#### *white chocolate/chestnut/Grains de Celles Extra Brut/meringue/almonds/dried fruit*
+#### *White chocolate/chestnut/Grains de Celles Extra Brut/meringue/almonds/dried fruit*
 
 A delicious, light white chocolate mousse cake. _3&nbsp;[eggplants]._
 <center><div style="width:65%">
