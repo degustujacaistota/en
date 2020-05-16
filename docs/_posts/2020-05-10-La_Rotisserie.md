@@ -20,14 +20,14 @@ This elegant restaurant is housed in the beautiful interiors of the @mamaisonler
 
 ### Degustation:
 
-At the beginning the different types of bread have been served.
+At the beginning the different types of bread has been served.
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/lr_bread.jpg" alt="Two slices of different breads on a white plate."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-In addition to the bread the butter with black cumin seeds have been served 
+In addition to the bread the butter with black cumin seeds has been served 
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/lr_butter.jpg" alt="Black cumin butter on a white oval plate."
 height="200px" width="40px" />
@@ -38,9 +38,9 @@ height="200px" width="40px" />
 #### *Duck/foie gras/hazelnuts/quince/pear/ginger/cherry oil/cranberry*
 
 Dried duck breast beautifully presented and delicious.
- Because it was our custom to come to Fine Dining tasting a bit too early,
+ Because it is our custom to come to Fine Dining tasting a bit too early,
  we additionally ordered a starter from the a la carte menu.
- It was great and that's why we gave to it the Happy Eggplant Badge. _4&nbsp;[eggplants]._
+ It was great and that's why we gave it the Happy Eggplant Badge. _4&nbsp;[eggplants]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/lr_duck.jpg" alt="Rolled up slices of duck fillet, arranged in
 rose shape. Decorated with parsley and sprinkled with nuts."
@@ -108,15 +108,15 @@ height="200px" width="40px" />
 
 ### Summary:
 
-The entire tasting was on a very high level. There were no weak dishes, which do not happen very often.
+The entire tasting menu was on a very high level. There were no weak dishes, which do not happen very often.
 
 Perhaps you are wondering that the restaurants
  on this blog have such high marks and virtually everyone receives the Happy Eggplant Badge.
  The explanation is very simple. With a limited amount of time to write articles,
-  I choose the best that are worth remembering and describing.
+  I choose the best restaurants that are worth remembering and describing.
   I am reluctant to write about bad dinners, which also happen to us.
 
-Yes! La Rotisserie because of this delicious Fine Dining dinner obviously deserved the Happy Eggplant Badge.
+Yes! Because of this delicious Fine Dining dinner La Rotisserie obviously deserved the Happy Eggplant Badge.
  We can't wait to get back here again.
 
 <center><div style="width:35%">
