@@ -127,4 +127,4 @@ Address: Rynek Główny 16,
 _Title picture: Cream of crayfish soup_
 
 [Wierzynek]: http://wierzynek.pl/
-[eggplants]: /about#baklazan
+[eggplants]: //en/about#baklazan
