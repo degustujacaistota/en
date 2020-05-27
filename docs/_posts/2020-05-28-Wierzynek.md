@@ -11,7 +11,7 @@ translated: true
 
 The Wierzynek is a cult place and famous all over Poland. 
 A stay in this historic restaurant gave me the idea of ​​a new tag on the "Degustująca Istota" website, namely "Luxury restaurant".
-This is the first thing that comes to my mind when I think about Wierzynek. 
+This is the first thing that comes to my mind when I think about @wierzynek_restauracja. 
 Beautiful, historic interiors, tastefully decorated and a special, rich tableware.
 Prices are also among the highest that we have seen so far in Poland.
 
