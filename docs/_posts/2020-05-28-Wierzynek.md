@@ -2,7 +2,7 @@
 layout: post
 title: Wierzynek - Fine Dining Week 
 featured-img: wie_main
-tags: Restaurant Fine_dining Gault_Millau Tasting_menu Fine_dinind_week Luxury restaurant
+tags: Restaurant Fine_dining Gault_Millau Tasting_menu Fine_dinind_week Luxury_restaurant
 restaurant: Wierzynek
 location:  Cracow Poland
 points: 240
