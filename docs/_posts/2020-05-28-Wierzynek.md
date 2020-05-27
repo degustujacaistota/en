@@ -115,8 +115,7 @@ height="200px" width="40px" />
 
 It was definitely a special evening. To be a guest in such a beautiful place is a great pleasure.
 The service tried very hard and you have to admit that they did it great.
- They were wonderful, despite the high occupancy of the restaurant. Oddly enough, the service fee was not added to the bill,
-  which, however, we were happy to make up.
+ They were wonderful, despite the high occupancy of the restaurant. Oddly enough, the service fee was not added to the bill, which, however, we were happy to make up.
 
 
 ## The Wierzynek restaurant receives: **240/250**
