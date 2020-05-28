@@ -53,13 +53,13 @@ height="200px" width="40px" />
 
 #### *Saddle of venison/Jerusalem artichoke/broad bean/chanterelle mushroom/parsley/blackberry*
 
-We were served the main course in an extremely attractive way. It made a great impression on us.
+ The main course was served in a very attractive way. It made a great impression on us.
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/wie_deer.jpg" alt="Silver covers covering the main dishes on the table." height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-Delicate, well-prepared meat and delicious additions. _4&nbsp;[eggplants]._
+Delicate, well-prepared meat and delicious side dishes. _4&nbsp;[eggplants]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/wie_deer2.jpg" alt="Two pieces of pink meat and additions around." height="200px" width="40px" />
 </div></center>
@@ -77,7 +77,7 @@ height="200px" width="40px" />
 
 #### *Zucchinni flower/vegetable ratatouille/goat cheese/zuchinni/kale/beetroot/vegan demi-glace*
 
-After the menu from Fine Dining Week we decided to check other items from the main menu in Wierzynek.
+After the menu from Fine Dining Week we decided to check other dishes from the main menu in Wierzynek.
  Zucchini flower on the menu is so rare that we could not refuse it. However, it was a flat and heavy dish. _2&nbsp;[eggplants]._
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/wie_flowers.jpg" alt="Zucchini flowers in dough, next to a clear puree,
@@ -115,12 +115,12 @@ height="200px" width="40px" />
 
 It was definitely a special evening. To be a guest in such a beautiful place is a great pleasure.
 The service tried very hard and you have to admit that they did it great.
- They were wonderful, despite the high occupancy of the restaurant. Oddly enough, the service fee was not added to the bill,
-  which, however, we were happy to make up.
+ They were wonderful, despite the high occupancy of the restaurant. Oddly enough, the service fee was not added to the bill, 
+ which, however, we were happy to make up.
 
 
 ## The Wierzynek restaurant receives: **240/250**
-Link to the restaurant[Wierzynek]
+Link to the restaurant [Wierzynek]
 
 Address: Rynek Główny 16, 
  Cracow
