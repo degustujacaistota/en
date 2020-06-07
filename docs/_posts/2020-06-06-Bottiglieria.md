@@ -47,7 +47,7 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-#### *Beef/pumpernickel bread/chocolate
+#### *Beef/pumpernickel bread/chocolate*
 
 Beef tartare with chocolate slice pumpernickel on top. Tartare was prepared with the addition of smoked mayonnaise and marrow dressing. 
 The combination of chocolate and meat was very interesting. The only worrying element were small, hard particles inside the tartare.
@@ -130,7 +130,7 @@ height="200px" width="40px" />
 
 #### *Apple/mustard seeds/honey*
 
-Pre dessert. Cool and slightly sweet sorbet with sour apple Szara Reneta pieces, mustard and honey. _3&nbsp;[eggplants]._
+Pre dessert. Cool and slightly sweet sorbet with sour apple Szara Reneta pieces, mustard seeds and honey. _3&nbsp;[eggplants]._
 <center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/b1881_predessert.jpg" alt="Wooden bowl with sorbet and apple pieces inside."
 height="200px" width="40px" />
