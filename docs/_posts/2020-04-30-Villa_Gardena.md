@@ -17,13 +17,13 @@ The Villa Gardena restaurant was also appreciated by the guide
 
 Chef Dominik Duraj has proved his talent to us many times and prepared dishes that we will remember for a long time. 
 For an example, a brilliant potato cream with fresh truffle, which was 
-our first dish at the Villa Gardena restaurant and from whom we absolutely fell in love in this place.
+our first dish at the Villa Gardena restaurant and from which we absolutely fell in love in this place.
   There was also a guinea fowl served at Fine Dining Week. The best prepared guinea fowl,
    from those we had pleasure to eat.
 
 Not all delicious dishes have been described on the Degustująca Istota blog,
 that's why I will allow myself for 
-a bit too long article today to mention some of those which didn't have the opportunity to be here before.
+a bit too long article today to mention some of those which didn't have the opportunity to be there before.
 
 The day before the restaurant closing we were at Villa Gardena on Fine Dining tasting dinner. 
 In the darkest thoughts we didn't think
@@ -34,7 +34,7 @@ In the darkest thoughts we didn't think
 
 #### *Kimchi/fennel/nasturtium*
 
-Amuse-bouche, which perfectly suited our taste. Crunchy and sweet and sour. _4&nbsp;[eggplants]._
+Amuse-bouche, which perfectly suited our taste. Crunchy, sweet and sour. _4&nbsp;[eggplants]._
 <center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/vg_am.jpg" alt="On a white plate are pieces of cabbage,
  dipped in oil and decorated with nasturtium leaves."
