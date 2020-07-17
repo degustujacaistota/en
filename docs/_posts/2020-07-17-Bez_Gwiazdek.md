@@ -44,7 +44,7 @@ height="200px" width="40px" />
 #### *"Hołubcie Bielkowskie"*
 
 Cabbage cones with potatoe, fried onion, roasted barley groats, and chive flowers. _5&nbsp;[eggplants]._
-<center><div style="width:65%">
+<center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/bg_holubcie.jpg" alt="
 Golden brown cabbage cones arranged in a bowl full of pearl barley grains. The horns are decorated with purple flowers on the top."
 height="200px" width="40px" />
@@ -95,7 +95,7 @@ height="200px" width="40px" />
 #### *Chicory/fennel/cucumber*
 
 The next dish in a vegetarian version, where the turbot was replaced by chicory. _3&nbsp;[eggplants]._
-<center><div style="width:50%">
+<center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/bg_chicory.jpg" alt="here is a piece of fried chicory on a flat plate.
  On its left side, there is fennel and on the right side, there is a low-salt cucumber."
 height="200px" width="40px" />
@@ -112,7 +112,7 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-#### *Challah/Strawberry/elderflower*
+#### *Challah/strawberry/elderflower*
 
 Delicious dessert. Warm homemade challah, cold elderberry sorbet, sour cream, and strawberries. _4&nbsp;[eggplants]._
 <center><div style="width:50%">
@@ -146,7 +146,7 @@ beautiful dishes and carefully selected, high-quality ingredients is not excessi
 
 
 
-## The Bez Gwiazdek restaurant receives:**240/250**
+## The Bez Gwiazdek restaurant receives: **240/250**
 Link to the restaurant [Bez Gwiazdek]
 
 Address: ul. Wiślana 8,
