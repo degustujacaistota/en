@@ -152,7 +152,7 @@ Link to the restaurant [Bez Gwiazdek]
 Address: ul. Wiślana 8,
 Warsaw
 
-_Title picture: Bulion rybny_
+_Title picture: Fish broth_
 
 [Bez Gwiazdek]: https://bezgwiazdek.eu/
 [eggplants]: /en/about#baklazan
