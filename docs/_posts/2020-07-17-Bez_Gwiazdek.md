@@ -134,7 +134,8 @@ height="200px" width="40px" />
 
 ### Summary:
 
-At Bez Gwiazdek restaurant, it was very tasty, although it must be admitted that we found a menu that was not exactly tailored to our tastes.
+At Bez Gwiazdek restaurant, dinner was very tasty, although it must be admitted that the menu for June
+ was not exactly tailored to our tastes.
 We are not big fans of fish, especially a birthday boy who does not eat fish at all and chose vegetarian versions.
 Unfortunately, we are not in Warsaw as often as we would like and
  after all, we wanted to try the chef's authors dishes.
