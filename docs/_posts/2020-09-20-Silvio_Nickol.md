@@ -263,7 +263,7 @@ height="200px" width="40px" />
 #### *Apple/sour cream/dill/fennel/beetroot*
 
 Apple sorbet with fennel closed in spheres, roasted sour cream,
- The meringue in the form of smooth sheets and white beets.
+ the meringue in the form of smooth sheets and white beets.
   I really like this very interesting dessert with vegetables.
    A great balance of sweet and sour, plus many structures and complex elements.
    A perfect dessert for me and for that I award it  the Happy Eggplant Badge. _5&nbsp;[eggplants]._
@@ -327,11 +327,12 @@ height="200px" width="40px" />
 ### Summary:
 
 A sensational evening. Almost every dish evoked a "wow" reaction from us.
- The flavor compositions were perfect to our taste and the size of the portions were also excellent.
+ The flavor compositions were perfectly suited to our taste and the size of the portions was also excellent.
 There were plenty of surprises during the dinner. The dishes were worked out to the smallest detail.
  The intricately arranged details were impressive. 
 
-The service was perfect and the tempo of the dishes served was appropriate for us, because often by taking pictures our dinner is slightly longer than the standard time.
+The service was perfect and the tempo of the dishes served was appropriate for us,
+ because often by taking pictures our dinner is slightly longer than the standard time.
 I will never forget many of these dishes and I hope that one day we will come back to Silvio restaurant for another great feast.
 
 Naturally, for the whole of the perfect tasting dinner, I award the restaurant the Happy Eggplant Badge.
