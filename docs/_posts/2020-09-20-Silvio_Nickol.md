@@ -335,7 +335,7 @@ The service was perfect and the tempo of the dishes served was appropriate for u
  because often by taking pictures our dinner is slightly longer than the standard time.
 I will never forget many of these dishes and I hope that one day we will come back to Silvio restaurant for another great feast.
 
-Naturally, for the whole of the perfect tasting dinner, I award the restaurant the Happy Eggplant Badge.
+Naturally, for this amazing, top level fine dining dinner, I award the restaurant the Happy Eggplant Badge.
 <center><div style="width:35%">
 <img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Happy Eggplant Badge" height="100" width="auto" />
 </div></center>
