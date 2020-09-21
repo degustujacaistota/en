@@ -9,14 +9,14 @@ points: 248
 translated: true
 ---
 
-The second time we visited Vienna with a culinary tour and this time we decided to reach the top shelf
+For the second time we visited Vienna with a culinary tour and this time we decided to reach the top shelf
  and try a tasting dinner in restaurants with two and three @michelinguide stars.
 
 As a two-star restaurant, we chose Silvio Nickol restaurant, that is the Silvio Nickol GourmetRestaurant,
  which is located in Palais Coburg.
 
-In front of the entrance, of course, there was a plaque with information about two Michelin stars awarded and about it,
- that this restaurant is a member of the luxurious Les Grandes Tables du Monde.
+In front of the entrance, of course, there was a plaque with information about two Michelin stars award and,
+ that restaurant is a member of the luxurious Les Grandes Tables du Monde.
 <center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/Si_entrance.jpg" alt="On the red brick wall, in front of the entrance to the
 The Palais Coburg is a violet Michelin Guide starboard and a gold cockboard with information about it,
@@ -25,10 +25,10 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-Beautiful, elegant dining room which we were led to with impressive,
- Illuminated wall of amethysts used as a background for a big, white egg. 
+We were led to a beautiful, elegant dining room. With impressive,
+ illuminated wall of amethysts used as a background for a big, white egg. 
  The egg also appeared in other places of the restaurant and as it turned out, it was the leitmotif of both the dinner, 
- as well as the entire restaurant. It was named "The egg of Origin".
+ and the entire restaurant. It was named "The egg of Origin".
  It is supposed to refer to philosophical questions about the beginning of existence and our fragility in relation to the surrounding universe.
 <center><div style="width:65%">
 <img src="{{site.img_url}}/assets/img/posts/Si_inside.jpg" alt="Room with large round tables covered with white tablecloths.
@@ -63,7 +63,7 @@ height="200px" width="40px" />
 #### *Pork belly/carrot*
 
 Next amuse-bouche. Crispy carrot was beautifully composed with bacon in teriyaki sauce. 
-Very interesting was the way we were to eat this snack. For this purpose we got chef's tweezers. _3&nbsp;[eggplants]._
+Very interesting was the way we were supposed to eat this snack. For this purpose we got chef's tweezers. _3&nbsp;[eggplants]._
 <center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/Si_pork_belly.jpg" 	alt="In a white, small bowl there is a piece of bacon covered with dark sauce. On top of it there are crispy, thin, striped carrots."
 height="200px" width="40px" />
@@ -104,11 +104,11 @@ Photo. Krzysztof Biliński
 
 #### *Duck liver/mushroom/spruce/chocolate*
 
-This dish delighted all three of us. As it turned out it was a signature dish of Chef Silvio Nickol.
+This dish delighted all of us. As it turned out it was a signature dish of Chef Silvio Nickol.
  Beautiful forest where there were mushrooms and acorns formed from liver mousse, 
- that looked like real. In addition, chocolate bark, edible moss seems,
-  that from a pistachio, but I'm not sure. There were also real marinated mushrooms. 
-  This forest full of surprises that we discovered while eating will be long in my memory.
+ that looked like real. In addition, chocolate bark, edible moss probably from pistachio, but I'm not sure.
+  There were also real marinated mushrooms. 
+  This forest full of surprises, that we discovered while eating, will remain long in my memory.
    Perfect and delightful! Of course it gets the Happy Eggplany Badge.
 _5&nbsp;[eggplants]._
 <center><div style="width:50%">
@@ -133,7 +133,7 @@ The beautiful main course, which delighted with its appearance and taste.
 The fish was made in a barbeque marinade, smoked, and grilled.
  It had compact but delicate meat. The sauce made of white asparagus was smooth and perfectly accomplished the catfish. 
  Small tubes decorated with caviar and flowers were a great addition. Another impressive dish,
-  to whom I gladly award the Happy Eggplant Badge. _5&nbsp;[eggplants]._
+  to which I gladly award the Happy Eggplant Badge. _5&nbsp;[eggplants]._
 <center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/Si_catfish.jpg" alt="In a deep white plate, 
 whose bottom is covered with green oil, a piece of grilled fish is arranged. 
@@ -161,7 +161,7 @@ height="200px" width="40px" />
 #### *Surprise egg*
 
 Refreshing intermezzo served in liquid nitrogen vapour. 
-A ceramic egg was placed in front of us, and then its upper part was lifted, releasing the fumes of nitrogen 
+A ceramic egg was placed in front of us, and then its upper part was removed, releasing the fumes of nitrogen 
 and showing another egg filled with gazpacho with celery, tomatoes, and cream. _5&nbsp;[eggplants]._
 <center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/Si_gazpacho.jpg" alt="Egg with green foam, 
