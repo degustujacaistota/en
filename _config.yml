@@ -85,14 +85,13 @@ paginate_path:    '/:num'
 remote_theme: degustujacaistota/sleek
 
 # jekyll-seo-tag
-title: Fine Dining and other culinary wonders
+title: Degustująca Istota
 tagline: >
-  Fine Dining is Culinary Art, which is my passion.
-  However, man does not live by art alone.
+  A blog about eating in Fine Dining and Slow Food restaurants and about good food in general
 description: >
   Fine Dining Restaurants by the Degustująca Istota.
-      Tasting dinners, à la Carte dishes also in restaurants with the Michelin Guide recommendation, but not only.
-      There is also place for several culinary pearls outside the world of Fine Dining.
+      Tasting dinners, à la Carte dishes also in restaurants with the Michelin Guide and Gault & Millau recommendation, but not only.
+      Here is also place for several culinary pearls outside the world of Fine Dining.
 url: "https://degustujacaistota.github.io/"
 author: Danuta Irena Żabińska
 logo: /assets/img/logo.jpg
