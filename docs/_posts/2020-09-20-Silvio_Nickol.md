@@ -12,7 +12,7 @@ translated: true
 For the second time we visited Vienna with a culinary tour and this time we decided to reach the top shelf
  and try a tasting dinner in restaurants with two and three @michelinguide stars.
 
-As a two-star restaurant, we chose Silvio Nickol restaurant, that is the Silvio Nickol GourmetRestaurant,
+As a two-star restaurant, we chose Silvio Nickol restaurant, that is the Silvio Nickol Gourmet Restaurant,
  which is located in Palais Coburg.
 
 In front of the entrance, of course, there was a plaque with information about two Michelin stars award and,
@@ -347,8 +347,8 @@ Just a few more words about prices. We chose a seven-course tasting menu for 149
 A "cover" fee was also added to the bill, it seems that for bread and butter-style additions, 7.50 euros 
 per person. I prefer when all necessary costs are included in the menu price. The tip was not included in the bill.
 
-## The Silvio Nickol GourmetRestaurant receives: **248/250!**
-Link to the restaurant [Silvio Nickol GourmetRestaurant]
+## The Silvio Nickol Gourmet Restaurant receives: **248/250!**
+Link to the restaurant [Silvio Nickol Gourmet Restaurant]
 
 The tasting date: 28.08.2020
 
@@ -356,6 +356,6 @@ Address: Coburgbastei 4, 1010 Wien, Austria
 
 _Title picture: Duck liver_
 
-[Silvio Nickol GourmetRestaurant]: https://palais-coburg.com/en/culinary/silvio-nickol/
+[Silvio Nickol Gourmet Restaurant]: https://palais-coburg.com/en/culinary/silvio-nickol/
 [eggplants]: /en/about#baklazan
 
