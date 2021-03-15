@@ -1,4 +1,15 @@
-- term: Foie Gras
-  details:
-- term: Madeleine
-  details:
+- id: foie_gras
+  term: Foie Gras
+  details: >
+    Liver or product made from the liver of a duck or goose. Its flavor is described as rich, buttery and delicate.
+    Foie gras is sold whole or made into mousse, parfait or pate.
+    Foie gras belongs to the protected cultural and gastronomic heritage of France.
+    According French law, foie gras is defined as the liver of a duck or goose force-fattened.
+    In other countries, foie gras is sometimes produced by the natural feeding method.
+- id: madeleine
+  term: Madeleine (Petite madeleine)
+  details: >
+    Madeleines are very small sponge cakes with a characteristic shell-like shape,
+    which they owe to being baked in moulds with shell-shaped indentations.
+    It is a traditional pastry from Commercy and Liverdun, two communes of the Lorraine region in northeastern France.
+

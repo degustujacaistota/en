@@ -85,11 +85,11 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-#### *Foie gras with strawberry chutney*
+#### *[Foie gras] with strawberry chutney*
 
-The plate included both foie gras pate and fried foie gras.
+The plate included both [foie gras] pate and fried [foie gras].
  To contrast the heaviness, strawberry slices and strawberry chutney were added.
-  A very interesting combination. It is a pity that there was so little foie gras. _3&nbsp;[eggplants]._
+  A very interesting combination. It is a pity that there was so little [foie gras]. _3&nbsp;[eggplants]._
 <center><div style="width:50%">
 <img src="{{site.img_url}}/assets/img/posts/Cop_foie_gras.jpg" alt="On a flat, dark gray plate lies a piece of fried liver, a dose of pate, slices of strawberries, two servings of strawberry chutney and dots of pink gel."
 height="200px" width="40px" />
@@ -225,5 +225,6 @@ _Title picture:  Jurassic salmon_
 
 [Copernicus]: http://likusrestauracje.pl/en/restaurants/copernicus-restaurant/
 [eggplants]: /en/about#baklazan
-
+[foie gras]: /en/dictionary#foie_gras
+[Foie gras]: /en/dictionary#foie_gras
 
