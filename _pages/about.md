@@ -19,12 +19,12 @@ That is why it became a symbol of my blog, as a vegetable well showing the chef'
 On the other hand, I think the tasting eggplant is funny. And I wanted to add a bit of humor so that the blog in which
 I write mostly about luxurious and elegant dinners in the Fine Dining style was not too pretentious and stiff.
 After all, even eating in a restaurant with 
-Michelin Guide stars we want to eat deliciously and have fun, instead of sitting tense, like on an exam.
+Michelin Guide stars we want to have fun and relax.
 
 ### Why am I writing this blog? 
 
 1. For myself: <br/>
-Because I have a poor memory. I love delicious food and want to be able to remember
+Because My memory is short. I love delicious food and want to be able to remember
  what and where I ate, how delicious it was or not;) and which Chef prepared these dishes.
  
 2. For people who are looking for good cuisine: <br/>
@@ -40,21 +40,26 @@ This was not my intention. I realize how much effort and commitment work in a re
 
 4. Because it's my hobby: <br/>
 I don't write sponsored content. 
-I do not earn by my blog, it is only my hobby for which I devote a large part of my home budget ;)
+I do not earn by my blog, it is only my hobby for which I devote a large part of my home budget :D
 
 
 What do I assess?
+First of all, all reviews in articles are my(or the people I go to dinners with) subjective opinions.
+I am not a culinary expert, just a fine dining fan and the Michelin Giude anthusiast.
+My knowledge and experience comes
+from hundreds of visits to restaurants, from culinary books, from conversations with Chefs and of course from the Internet.
 
 ### Rating criteria:
 1. The Taste and technique
 2. Presentation of courses
-3. Atmospher
+3. Atmosphere
 4. Service
 5. Interior decoration/Cleanliness
 6. Best Value for money
 7. Creativity/Vision
 
-Maximum the restaurant/bistro/bar can receive 250 points.
+I don't consider the choice of alcohols or how they match the dish because we mostly don't drink alcohol. You can find the points given on older articles. Over time, I have stepped away from fixed point ratings because I felt
+that they don't fully reflect what I want to express. Therefore, I decided to only include a descriptive rating in the Summary section.
 
 <a name="baklazan"></a>
 ### Courses have their own rating expressed by my favourite Eggplants!
@@ -67,9 +72,13 @@ A dish can receive from 0 to 5 eggplants.
 * 5 eggplants - phenomenal, surprising, brilliant!
 
 
-### Special award
-The Happy Eggplant badge - the highest distinction.
-Awarded to the Degustująca Istota’s favourite dishes or for the resturant that the Degustująca Istota loves.
+### The Happy Eggplant badge
+It is an exceptional distinction.
+Awarded to favourite dishes or restaurants that the Degustująca Istota has fallen in love with.
+This distinction is disjointed from the eggplant rating, though it often goes hand in hand.
+Still, you can have 3 or 4 eggplants and a Happy Eggplant order/badge.
+A dish that was technically not very advanced, or there were shortcomings,
+ or there was some element I didn't like, can still enchant me and I will fall in love with it.
 
 
 <center><div style="width:40%"><img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="DegustującaIstota" height="602" width="auto" />
@@ -78,6 +87,18 @@ Awarded to the Degustująca Istota’s favourite dishes or for the resturant tha
 ### Tags
 Under each article, there is a list of tags by which the Degustująca Istota has grouped posts.
  Tags: Michelin_guide and Gault_Millau are placed next to the restaurants that were mentioned in these guides.
+ 
+### Locations
+At the end of the article, and in the title photo, you can find the location of the restaurant.
+By clicking on a city or country you will be redirected to a page with articles about restaurant visits in that location.
+You can also see a list of all available locations with links to the corresponding articles by clicking on "Locations" at the top of the page.
+
+### Search
+You can click "Search" at the top of the page, which will redirect you to the search engine page where you can type in your search term.
+
+### Dictionary
+The newest feature. The dictionary is constantly being expanded to include terms from the culinary industry, Fine Dining in particular.
+It can be accessed through the link at the top of the page, or through a highlighted word in an article.
 
 ### Technical information
 The photo on the main page was taken at the Babel restaurant in Budapest.
