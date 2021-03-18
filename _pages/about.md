@@ -113,3 +113,9 @@ For those who do not use the e-mail client: degustujaca.istota@gmail.com.
 [Sleek]:https://janczizikow.github.io/sleek
 [Jekyll]: https://jekyllrb.com
 [WriteOnly]: https://www.writeonly.pl
+[Locations]: /en/locations
+[Search]: /en/search-jekyll-simple/
+[Dictionary]: /en/dictionary
+[Tags]: /en/tags
+[Michelin_guide]: /en/tags/Michelin_guide
+[Gault_Millau]: /en/tags/Gault_Millau
