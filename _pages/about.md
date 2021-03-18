@@ -84,19 +84,19 @@ A dish that was technically not very advanced, or there were shortcomings,
 <center><div style="width:40%"><img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="DegustującaIstota" height="602" width="auto" />
 </div></center>
 
-### Tags
+### [Tags]
 Under each article, there is a list of tags by which the Degustująca Istota has grouped posts.
- Tags: Michelin_guide and Gault_Millau are placed next to the restaurants that were mentioned in these guides.
+ Tags: [Michelin_guide] and [Gault_Millau] are placed next to the restaurants that were mentioned in these guides.
  
-### Locations
+### [Locations]
 At the end of the article, and in the title photo, you can find the location of the restaurant.
 By clicking on a city or country you will be redirected to a page with articles about restaurant visits in that location.
 You can also see a list of all available locations with links to the corresponding articles by clicking on "Locations" at the top of the page.
 
-### Search
+### [Search]
 You can click "Search" at the top of the page, which will redirect you to the search engine page where you can type in your search term.
 
-### Dictionary
+### [Dictionary]
 The newest feature. The dictionary is constantly being expanded to include terms from the culinary industry, Fine Dining in particular.
 It can be accessed through the link at the top of the page, or through a highlighted word in an article.
 
