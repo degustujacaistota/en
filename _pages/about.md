@@ -47,7 +47,7 @@ What do I assess?
 First of all, all reviews in articles are my(or the people I go to dinners with) subjective opinions.
 I am not a culinary expert, just a fine dining fan and the Michelin Giude anthusiast.
 My knowledge and experience comes
-from hundreds of visits to restaurants, from culinary books, from conversations with Chefs and of course from the Internet.
+from conversations with Chefs, culinary books and hundreds of visits in restaurants.
 
 ### Rating criteria:
 1. The Taste and technique
