@@ -2,7 +2,7 @@
 layout: post
 title: Copernicus
 featured-img: Cop_main
-tags: Restaurant Fine_dining Gault_Millau Tasting_menu Michelin_guide Michelin_plate Luxury_restaurant
+tags: Restaurant Fine_dining Gault_Millau Tasting_menu Michelin_guide Michelin_plate Luxury_restaurant Happy_eggplant_badge
 restaurant: Copernicus
 location: Cracow Poland
 points: 243
@@ -214,8 +214,6 @@ We can't give a star, but we can and we give a Happy Eggplant Badge for a great 
 </div></center>
 
 
-
-## The Copernicus restaurant receives: **243/250**
 Link to the restaurant [Copernicus]
 
 Address: Kanonicza 16,

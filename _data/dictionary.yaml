@@ -1,3 +1,29 @@
+- id: amuse_bouche
+  term: Amuse-bouche
+  details: >
+    A snack usually for one or two bites. It is different from appetizers because it is not ordered from the menu.
+    Its purpose is to prepare the guest for the meal and to demonstrate the chef's style.
+    It should not be added to the bill. It is served to all guests at the table.
+- id: consomme
+  term: Consommé
+  details: >
+    A french, clear soup made from a richly flavored bouillon. Intense in flavor, made from meats and vegetables simmering over low heat.
+    Egg whites are used to remove excess fat and sediment. Generally served hot.
+- id: demi_glace
+  term: Demi-glace
+  details: >
+    A rich, reduced, brown sauce based on meat (usually veal or beef) stock. Considered the king of sauces in French cuisine.
+    It can be used as a base for other sauces or can be used on its own.
+    The basic recipe for demi-glace is credited to French chef Auguste Escoffier.
+- id: fine_dining
+  term: Fine Dining (Fine dine)
+  details: >
+    There is a lot that goes under the term Fine Dining. Sometimes it is a restaurant using luxury products of the best quality,
+    Sometimes it means that the restaurant has beautiful, designed interiors, white tablecloths and silverware. Sometimes it is a restaurant
+    in which there is a famous chef who can conjure up real masterpieces on a plate, sometimes excellent service for which nothing is a problem, sometimes such restaurants use molecular gastronomy, and often all these qualities together.
+    One thing is certain, Fine Dining is not just about food, it is much more than that. Going out to a Fine Dining class restaurant,
+    is like going to the theater, art gallery, concert or opera. This is a spectacle, which is to provide us with a beautiful experience that
+    we will remember for a long time. Of course, for these beautiful moments and luxury products you pay more than in the average restaurant.
 - id: foie_gras
   term: Foie Gras
   details: >
@@ -6,10 +32,34 @@
     Foie gras belongs to the protected cultural and gastronomic heritage of France.
     According French law, foie gras is defined as the liver of a duck or goose force-fattened.
     In other countries, foie gras is sometimes produced by the natural feeding method.
+- id: intermezzo
+  term: Intermezzo
+  details: >
+    A small, light and refreshing snack or drink served between courses to cleanse the taste buds.
+    Usually an intermezzo is served before the main course.
+    Like [amuse-bouche](#amuse_bouche) intermezzo is not ordered from the menu or added to the bill. It is usually sorbet, ice cream or refreshing shots.
+- id: kaszanka
+  term: Kaszanka (Krupniok)
+  details: >
+    A sausage made from buckwheat or barley groats, blood and pork giblets. It is usually seasoned with onion, marjoram and pepper.
+    It has dark brown color and intestine casing.
+    Kaszanka can be eaten cold, but traditionally it is grilled or fried with onion and then served with potatoes and sauerkraut.
+    Kaszanka is traditional sausage in European cuisine. In Silesia in Poland it is called Krupniok.
 - id: madeleine
   term: Madeleine (Petite madeleine)
   details: >
     Madeleines are very small sponge cakes with a characteristic shell-like shape,
     which they owe to being baked in moulds with shell-shaped indentations.
     It is a traditional pastry from Commercy and Liverdun, two communes of the Lorraine region in northeastern France.
-
+- id: mizeria
+  term: Mizeria
+  details: >
+    A salad of sliced or grated cucumbers, onions, and sour cream. Instead of sour cream it is sometimes served with yoghurt, mayonnaise or kefir.
+    It may be seasoned with pepper, salt, dill or lemon juice.
+- id: pate_a_choux
+  term: Choux pastry (pâte à choux/choux au craquelin)
+  details: >
+    Puff pastry/steamed pastry (pâte à choux) is a delicate dough used in many baked sweets.
+    It contains only butter, water, flour and eggs. It uses high humidity instead of a raising agent, to create steam during cooking, which gives the dough its fluffiness.
+    A variation of the puff is choux au craquelin, the puff with a crispy shell. It is made with brown sugar, flour and butter.
+    These ingredients are combined, rolled out into a thin pancake, from which disks are cut and then placed on the puffs before baking.
