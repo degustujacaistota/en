@@ -109,6 +109,7 @@ The blog exists and develops thanks to the help of an amazing programmer, author
 If you like, you can write an e-mail to the  [Degustującej Istoty](mailto:{{site.email}}).
 For those who do not use the e-mail client: degustujaca.istota@gmail.com.
  However, I recommend contacting by facebook or Instagram page - I will reply as soon as possible.
+Danuta Żabińska is the editor-in-chief. The technical editor is Kamil Żabiński.
 
 [Sleek]:https://janczizikow.github.io/sleek
 [Jekyll]: https://jekyllrb.com
