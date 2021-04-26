@@ -32,6 +32,11 @@
     Foie gras belongs to the protected cultural and gastronomic heritage of France.
     According French law, foie gras is defined as the liver of a duck or goose force-fattened.
     In other countries, foie gras is sometimes produced by the natural feeding method.
+- id: gazpacho
+  term: Gazpacho
+  details: >
+    A type of cold soup made from chopped or blended vegetables with vinegar and olive oil.
+    This soup does not require cooking. Its most famous variation is the tomato-based Gazpacho Andaluz.
 - id: intermezzo
   term: Intermezzo
   details: >
@@ -63,3 +68,16 @@
     It contains only butter, water, flour and eggs. It uses high humidity instead of a raising agent, to create steam during cooking, which gives the dough its fluffiness.
     A variation of the puff is choux au craquelin, the puff with a crispy shell. It is made with brown sugar, flour and butter.
     These ingredients are combined, rolled out into a thin pancake, from which disks are cut and then placed on the puffs before baking.
+- id: petit_four
+  term: Petit four
+  details: >
+    These are small sweets served at the end of the meal as a gift from the chef. Just like [amuse-bouche](#amuse_bouche)
+    they are not added to the bill. These can include: macarons, meringues, small versions of cakes, candied fruit or chocolate-covered nuts,
+    pralines, chocolates, jellies, lollipops, small ice creams, cannelés or madeleines. In fact, there is no limit and many chefs approach petit fours very creatively,
+    wanting to delight guests once again before they leave the restaurant.
+- id: sacher_torte
+  term: Sacher-Torte
+  details: >
+    Its history begins in 1832, when 16-year-old Franz Sacher, when the chef was ill, created an unusual cake especially for Prince Metternich.
+    Sacher Torte is a chocolate cake whose original recipe is closely guarded. You can taste it at Hotel Sacher in several of its restaurants and cafes.
+    Sacher Torte is a reserved name that only Hotel Sacher can use.
