@@ -5,7 +5,6 @@ featured-img: Si_main
 tags: Restaurant Happy_eggplant_badge Fine_dining Tasting_menu Luxury_restaurant Two_Michelin_stars Michelin_guide Michelin_star
 restaurant: Silvio_Nickol
 location: Vienna Austria
-points: 248
 translated: true
 ---
 
@@ -343,11 +342,7 @@ Naturally, for this amazing, top level fine dining dinner, I award the restauran
 At the end, we had the pleasure to meet the Chef and the whole crew, and have a few words with them.
 It is an honor to meet someone who can prepare such a brilliant menu, which enchanted us.
 
-Just a few more words about prices. We chose a seven-course tasting menu for 149 euros per person. 
-A "cover" fee was also added to the bill, it seems that for bread and butter-style additions, 7.50 euros 
-per person. I prefer when all necessary costs are included in the menu price. The tip was not included in the bill.
 
-## The Silvio Nickol Gourmet Restaurant receives: **248/250!**
 Link to the restaurant [Silvio Nickol Gourmet Restaurant]
 
 The tasting date: 28.08.2020

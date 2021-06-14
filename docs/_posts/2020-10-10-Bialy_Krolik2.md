@@ -5,7 +5,6 @@ featured-img: bk2_main
 tags: Restaurant Fine_dining Gault_Millau Tasting_menu Happy_eggplant_badge
 restaurant: Biały_królik
 location: Gdynia Tricity Poland
-points: 243
 translated: true
 ---
 
@@ -223,11 +222,7 @@ Naturally, we uphold our Happy Eggplant Badge for the Biały Królik restaurant.
 <img src="{{site.img_url}}/assets/img/odznaka_new.gif" alt="Happy Eggplant Badge" height="100" width="auto" />
 </div></center>
 
-A few more words about prices. The tasting menu "Follow the White Rabbit" cost us PLN 270 per person.
-  The service has not been added to the bill.
 
-
-## The Biały Królik restaurant receives: **243/250!**
 Link to the restaurant [Biały Królik]
 
 Address: ul. Folwarczna 2, 81-547 Gdynia, Poland

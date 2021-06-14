@@ -5,7 +5,6 @@ featured-img: Cop_main
 tags: Restaurant Fine_dining Gault_Millau Tasting_menu Michelin_guide Michelin_plate Luxury_restaurant Happy_eggplant_badge
 restaurant: Copernicus
 location: Cracow Poland
-points: 243
 translated: true
 ---
 
@@ -196,8 +195,6 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-The 9-course dinner, which also included many delicacies from the Chef, cost us 350 PLN per person.
- Tip was not added to the bill, so of course we left the appropriate amount in the case on the table. 
 
 The dinner was wonderful. It suited our taste perfectly. 
 The only thing we could possibly wish for more would be larger portions, but the value for money was still very good.

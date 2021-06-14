@@ -5,7 +5,6 @@ featured-img: bg_main
 tags: Restaurant Fine_dining Gault_Millau Tasting_menu Michelin_guide Michelin_plate
 restaurant: Bez_Gwiazdek
 location: Warsaw Poland
-points: 240
 translated: true
 ---
 
@@ -142,12 +141,7 @@ Unfortunately, we are not in Warsaw as often as we would like and
  
 I think the evening was very enjoyable and I'm glad we got to know the minimalist and less formal approach to Fine Dining.
 
-I think that the price of PLN 160/person for a six-course menu, 
-beautiful dishes and carefully selected, high-quality ingredients is not excessive.
 
-
-
-## The Bez Gwiazdek restaurant receives: **240/250**
 Link to the restaurant [Bez Gwiazdek]
 
 Address: ul. Wiślana 8,
