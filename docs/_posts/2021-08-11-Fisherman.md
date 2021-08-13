@@ -4,7 +4,7 @@ title: Fisherman
 featured-img: FM_main
 tags: Restaurant Fine_dining Happy_eggplant_badge Tasting_menu
 restaurant: Fisherman
-location: Sopot Poland
+location: Sopot Tricity Poland
 translated: true
 ---
  During our May visit to the Tricity we visited a few new places and some of our favorite [Fine Dining] restaurants.
