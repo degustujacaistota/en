@@ -26,11 +26,11 @@ Tables brought from France, framed old French newspapers hang on the walls, and 
   as a Chinese accent. 
 Meals here are eaten with silver cutlery from the 18th and 19th centuries on paper tablecloths.
 
-The restaurant's menu is mainly French, but also Chinese recipes. 
+The restaurant's menu is mainly French, but also includes Chinese recipes. 
 Everything here is honest and authentic from the beginning to the end. 
 The chef himself takes care of selecting the best products from 
 markets and suppliers so that at Chez Nicholas we can eat fresh products of the highest quality.
-  The menu changes every day depending on the produce available.
+  The menu changes every day depending on the product's availability.
 
 The chef himself takes care of selecting the best products from markets and suppliers so that at Chez Nicholas we can eat fresh products of the highest quality.
   The menu changes every day depending on the produce available.
@@ -41,7 +41,7 @@ The chef himself takes care of selecting the best products from markets and supp
 
 Instead of the traditional bread before our meal, we got steamed buns in a variety of flavors.
  The Chef served them again as soon as they ran out, which we really liked, 
- because they were perfect for finishing the sauces. The sauces at Chef Nicholas are divine, it is a sin to leave them. 
+ because they were perfect for finishing the sauces. The sauces at Chef Nicholas are divine, it is a sin to leave them on a plate.
 The homemade buns were made using alkaline water, Julienas Beaujolais village red wine (Gamay Grape), spinach, and sorrel.
 For the buns we got Isigny Butter AOP from Normandy with black summer truffle Tuber Aestivum from Croatia and Taggiasche olives and Espelette peppers.
 Also there was an excellent olive oil from AOP Les Vallées de Baux de Provence. _4&nbsp;[eggplants]._
@@ -85,7 +85,7 @@ We ate the beef tartare at Chez Nicholas in two renditions and both deserved the
 
  The first was a super surprise as we got a double portion of tartare (a la carte). For lovers of this dish, it's hard to find something better.
 Perfect, finely chopped beef with a sabayon of light mayo with Japanese chili powder, grapefruit, yuzu, 
-crispy shitake mushrooms (from Mr. Grela from Lublin) with mizuna cabbage, 
+crispy shiitake mushrooms (from Mr. Grela from Lublin) with mizuna cabbage, 
 Japanese whiskey, and red wine glaze with anise, cinnamon, and black fruit purée. _5&nbsp;[eggplants]._
 <center><div style="width:60%">
 <img src="{{site.img_url}}/assets/img/posts/Ni_big_tartare.jpg" alt="A huge portion of finely chopped beef tartare,
@@ -96,7 +96,7 @@ height="200px" width="40px" />
 <br />&ensp;&ensp;
 
 The second was also finely chopped, made with Black Angus beef and combined with green zebra tomato tartare. 
-It came with crispy shitake mushrooms, grapefruit, gherkins, mustard and Cointreau liqueur.  _5&nbsp;[eggplants]._
+It came with shiitake mushrooms, grapefruit, gherkins, mustard and Cointreau liqueur.  _5&nbsp;[eggplants]._
 <center><div style="width:85%">
 <img src="{{site.img_url}}/assets/img/posts/Ni_beefTartare.jpg" alt="A portion of beef tartare, finely chopped arranged 
 in the shape of a disc. A dark sauce is poured around it and the top of the tartare is garnished with a grapefruit fillet and slices of dark mushrooms."
@@ -107,10 +107,10 @@ height="200px" width="40px" />
 #### *Spider Crab from Roscoff*
 
 
-The chef loves to serve this particular crab steamed and with different accompaniments. 
+The Chef loves to serve this particular crab steamed and with different accompaniments. 
 It is served in the shell of this particular crab, which looks very impressive.
-As with the tartare, both crabs were sensational and get orders from us.
-The chef loves to serve this particular crab steamed and with different toppings. 
+As with the tartare, both crabs were sensational and got orders from us.
+The Chef likes to serve this particular crab steamed and with different toppings. 
 
 In the first version, we got crab steamed and deboned,
  with black garlic mayonnaise and a collection of local bio veggies in salad including a steamed zucchini flower. _5&nbsp;[eggplants]._
@@ -247,12 +247,13 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-#### *Panfried foie gras*
+#### *Pan-fried foie gras*
 
 The a la carte dish we were so excited to try at Chez Nicholas.
  Perfectly cooked foie gras of the highest quality from Toulouse, pan-fried with Cointreau liqueur. 
-Accompanied with a sauce - cherry reduction and a salad of a variety of tomatoes with a vanilla Sechuan pepper vinaigrette. 
- As a side dish beautiful eggplants, zucchini, and beans grilled in the oven. A fantastic composition, full of flavors, textures, and aromas.
+Accompanied with a sauce - cherry reduction and a salad of a variety of tomatoes with a vanilla Sichuan pepper vinaigrette. 
+As a side dish, beautiful eggplants, zucchini, and beans, grilled in the oven.
+ A fantastic composition, full of flavors, textures, and aromas. 
  The Order was awarded, of course. _5&nbsp;[eggplants]._
 <center><div style="width:85%">
 <img src="{{site.img_url}}/assets/img/posts/Ni_foie_gras.jpg" alt="On a flat, white, square plate lies
@@ -269,7 +270,7 @@ height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
 
-#### *The Three Treasures Of The land*
+#### *The Three Treasures Of The Land*
 
 This is another original Chinese dish that Chef Nicholas learned from his mother. 
 The fresh peppers and eggplants for this dish Chef Nicholas brought by himself from a trip to Greece. 
@@ -312,12 +313,13 @@ height="200px" width="40px" />
 #### *Crepe with fruit*
 
 Crispy French Crepe with orange blossoms. 
-Topped with berries flambéed in Grand Marnier, salted caramel and house-made lemon cream. As usual, served spectacularly. _4&nbsp;[eggplants]._
+Topped with berries flambéed in Grand Marnier, salted caramel and house-made lemon cream. As usual, it was served spectacularly. _4&nbsp;[eggplants]._
 <center><div style="width:85%">
 <img src="{{site.img_url}}/assets/img/posts/Ni_crepe.jpg" alt="Two white plates with a large crispy pancake molded in the shape of a bowl.
- Inside the pancake lie fried fruit and lemon cream. To the right of the plate in front, lies an ornate silver knife.
-  To the right of the photo, 
-on the table lies a silver bowl from from which large amounts of steam are coming out, dribbling on the table."
+Inside the pancake lies fried fruit and lemon cream. To the right of the plate in front, lies an ornate silver knife.
+ To the right of the photo,
+on the table lies a silver bowl from which large amounts of steam are coming out, dribbling on the table.
+"
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
@@ -365,7 +367,7 @@ At the end we got a surprise from Chef Nicholas,
  It was a lovely evening with great company and brilliant food.
 <center><div style="width:85%">
 <img src="{{site.img_url}}/assets/img/posts/Ni_pen.jpg" alt="A red gold pen with gold writing Chez Nicholas
- is lying on the table and behind it in the background is a red rose and a plate of Cannelé"
+ is lying on the table and behind it in the background is a red rose and a plate of Cannelé."
 height="200px" width="40px" />
 </div></center>
 <br />&ensp;&ensp;
