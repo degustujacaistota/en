@@ -250,7 +250,7 @@ height="200px" width="40px" />
 #### *Pan-fried foie gras*
 
 The a la carte dish we were so excited to try at Chez Nicholas.
- Perfectly cooked foie gras of the highest quality from Toulouse, pan-fried with Cointreau liqueur. 
+ Perfectly cooked [foie gras] of the highest quality from Toulouse, pan-fried with Cointreau liqueur. 
 Accompanied with a sauce - cherry reduction and a salad of a variety of tomatoes with a vanilla Sichuan pepper vinaigrette. 
 As a side dish, beautiful eggplants, zucchini, and beans, grilled in the oven.
  A fantastic composition, full of flavors, textures, and aromas. 
@@ -326,7 +326,7 @@ height="200px" width="40px" />
 
 #### *Petit four*
 
-Cannelé de Bordeaux with Vermuth wine. I love Cannelé, these wonderfully buttery and soft sweets
+Cannelé de Bordeaux with Vermuth wine as [Petit four]. I love Cannelé, these wonderfully buttery and soft sweets
  are the perfect finale to a French tasting with a Chinese twist. 
  They were made exactly as they should be. I adore them and of course, they get the Order of the Happy Eggplant. _5&nbsp;[eggplants]._
 <center><div style="width:85%">
@@ -346,7 +346,7 @@ height="200px" width="40px" />
 ### Summary:
 
 Each visit to Chez Nicholas restaurant has been unique and magical.
- It is fine dining at the highest level with luxurious products of excellent quality straight from France and beyond. 
+ It is [fine dining] at the highest level with luxurious products of excellent quality straight from France and beyond. 
  Chef's talent, skill and diligence can be seen at every step.
 Chef Nicholas himself served every dish and passionately told us about every detail we could think of.
  We literally could have talked to him like that for hours. 
@@ -384,3 +384,6 @@ _Title picture: Cherries à la Jubilée_
 [eggplants]: /en/about#baklazan
 
 
+[Petit Fours]: /en/dictionary#petit_four
+[fine Dining]: /en/dictionary#fine_dining
+[foie gras]: /en/dictionary#foie_gras
